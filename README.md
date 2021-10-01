@@ -1,6 +1,7 @@
 # fuzzyProject
 
 Fuzzyprojectm.m ReadMe doc
+
 Author: Jared Murray
 
 This program should be ran in MATLAB online. Once ran, the user will prompt to enter the starting x, starting y, target x, and target y positions in that order. Once entered the program will output the following:
